@@ -91,7 +91,7 @@ How many trips are taken by the hour for each day of the week for all genders. T
 A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. Male Subscribers are more likely to check out a bike at the beginning and end of the week. 
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-The CitiBike story was built using [Tableau Pages](https://public.tableau.com/app/profile/karen.montero/viz/NYC_CitiBike_Challenge_16630730954770/NYCCitiBikeforAugust2019).
+The CitiBike story was built using [Tableau Pages](https://public.tableau.com/app/profile/karen.montero/viz/NYC_CitiBike_Challenge_16630730954770/NYCCitiBikeforAugust2019#2).
 
 ## Summary:
 
