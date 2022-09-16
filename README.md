@@ -98,5 +98,5 @@ There are over 2 million trips taken that utilizes the CitiBike service in the m
 
 Additional visualization can be performed for future analysis. One such analysis would be at what age group do bike users fall into that utilizes the CitiBike service. With this information, we can determine if different sizes of bikes, types of bikes, are needed to accomodate certain age group i.e. for family with children going on bike rides together or riders who partake in marathon.
 
-Another analysis that would be helpful would be 
+Another analysis that would be helpful would be which station do riders frequently visit. With this information, we can determine if the users have a preferred test station due to location, level of service, etc.
 
