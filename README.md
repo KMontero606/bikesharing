@@ -83,6 +83,7 @@ How many trips are taken by the hour for each day of the week for all riders. Mo
 
 #4. Create the Trips by Gender (Weekday per Hour) Viz:
 <img width="950" alt="Trips by Gender" src="https://user-images.githubusercontent.com/106962921/190652666-969b041e-4fcd-4eb5-9df0-208d4ce4840c.png">
+
 How many trips are taken by the hour for each day of the week for all genders. The most common trips taken are from the male population.
 
 #5. Create the User Trips by Gender by Weekday Viz:
