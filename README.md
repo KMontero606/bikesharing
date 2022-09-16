@@ -36,6 +36,6 @@ citibike_df.to_csv("201908-citibike-tripdata_2.csv", index = False)
 ### Deliverable 2: Create Visualizations for the Trip Analysis
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-https://public.tableau.com/shared/RDW86ZNPX?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/karen.montero/viz/NYC_CitiBike_Challenge_16630730954770/NYCCitiBikeforAugust2019
 
 ## Summary:
